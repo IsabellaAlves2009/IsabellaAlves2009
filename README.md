@@ -30,7 +30,7 @@
 <hr>
 <div>
    <img src="https://qph.cf2.quoracdn.net/main-qimg-bdfbe0666b320695eed9cecc32be66ba" width= "100%">
-  <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+  <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
 </div>
 <div style="display: flex">
     
