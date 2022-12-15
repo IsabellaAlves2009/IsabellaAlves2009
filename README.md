@@ -1,5 +1,4 @@
 - 👋Hi, i'm Isabella!
 - ✨13y
 - 👩🏻‍💻 Dev front-end
-- 🌎 Goiás, Brasil
 - 💜🚀 RocketSeat student
