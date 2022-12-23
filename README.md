@@ -1,7 +1,4 @@
 <h2>Olá, meu nome é Isabella...</h2>
-
- .   *     .       *    .🌙      *    .  *    *     *   ☄️.    *      *    .      🌍*      .     .    *   💫 *    .      *      .     .  *.       ✨ *    .  *     🌑       .    *    ☄️     *    .  *     🌕  .    *    .  *  .      *    .      *.    *     *   .  . *
-
 <hr>
 
 - ✨13y
@@ -33,6 +30,6 @@
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
 </div>
 <div style="display: flex">
-    
+
 </div>
 
