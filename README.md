@@ -1,10 +1,11 @@
-<h2>Olá, meu nome é Isabella...</h2>
+<h2>Olá, meu nome é Isabella :)</h2>
 <hr>
 
-- ✨13y
-- 👩🏻‍💻 Dev front-end
-- 💜🚀 RocketSeat student
-- 🌱🎮 Learning to create games
+* ✨13y
+* 👩🏻‍💻 Dev front-end
+* 💜🚀 RocketSeat student
+* 🌱🎮 Learning to create games
+* 
 <hr>
 
 <div style=" display: flex">
