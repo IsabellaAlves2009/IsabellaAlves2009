@@ -6,8 +6,7 @@
 - 💜🚀 RocketSeat student
 - 🌱🎮 Learning to create games
 <hr>
-    <img src="https://www.photofunky.net/output/image/b/0/6/6/b066dc/photofunky.gif">
-<hr>
+
 <div style=" display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= "30px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30px" width="40px"/>
@@ -18,5 +17,6 @@
 </div>
 <hr>
 <div>
+    <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-7.gif" width= "100%">
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
 </div>
