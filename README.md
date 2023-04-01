@@ -5,7 +5,6 @@
 * 👩🏻‍💻 Dev front-end
 * 💜🚀 RocketSeat student
 * 🌱🎮 Learning to create games
-* 
 <hr>
 
 <div style=" display: flex">
