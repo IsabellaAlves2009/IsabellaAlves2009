@@ -1,10 +1,10 @@
-<h2>Olá, meu nome é Isabella :)</h2>
+<h2>✨💙 Hi! I'm Isabella :)</h2>
 <hr>
 
-* ✨ 13y
-* 👩🏻‍💻 Dev front-end
-* 💜🚀 RocketSeat student
-* 🌱🎮 Learning to create games
+* ✨ **13**y
+* 👩🏻‍💻 Dev **front-end**
+* 💜🚀 RocketSeat **student**
+* 🌱🎮 Learning to create **games**
 <hr>
 
 <div style="display: flex">
@@ -18,5 +18,7 @@
 <hr>
 <div>
     <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-7.gif" width= "100%">
+  <hr>
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
+  <hr>
 </div>
