@@ -1,4 +1,4 @@
-<h2>✨💙 Hi! I'm Isabella :)</h2>
+<h1>✨💙 Hi! I'm Isabella :)</h1>
 <hr>
 
 * ✨ **13**y
