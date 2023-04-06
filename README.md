@@ -4,7 +4,7 @@
 * ✨ **13**y
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 RocketSeat **student**
-* 🌱 Learning **React**
+* 🌱⚛️ Learning **React**
 <hr>
 
 <div style="display: flex">
