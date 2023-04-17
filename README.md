@@ -5,6 +5,8 @@
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 RocketSeat **student**
 * 🌱⚛️ Learning **React**
+
+_"coding since I was 11, I wanna put my creativity into coding and be successful in life..."_
 <hr>
 
 <div style="display: flex">
