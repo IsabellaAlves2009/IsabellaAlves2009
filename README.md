@@ -1,10 +1,12 @@
-<h1>✨💙 Hi! I'm Isabella ;)</h1>
+<h1>Hi! I'm Isabella :D</h1>
 <hr>
 
 * ✨ **13**y
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 RocketSeat **student**
 * 🌱⚛️ Learning **React**
+
+<hr>
 
 _"coding since I was 11, I wanna put my creativity into coding and be successful in life..."_
 <hr>
