@@ -8,7 +8,7 @@
 
 <hr>
 
-_"coding since I was 11, i wanna put my creativity into coding N' be successful in my life..."_
+_"Coding since i was 11, i wanna put my creativity into coding N' be successful in my life..."_
 <hr>
 
 <div style="display: flex">
