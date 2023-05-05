@@ -1,7 +1,7 @@
 <h1>Hi! I'm Isabella :D</h1>
 <hr>
 
-* ✨ **13**y
+* ✨ **14**y
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 RocketSeat **student**
 * 🌱⚛️ Learning **React**
