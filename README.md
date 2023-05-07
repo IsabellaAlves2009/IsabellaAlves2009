@@ -1,4 +1,4 @@
-<h1>Hi! I'm Isabella :D</h1>
+<h1>Hi! I'm Isabella ;D</h1>
 <hr>
 
 * ✨ **14**y
@@ -6,9 +6,6 @@
 * 💜🚀 RocketSeat **student**
 * 🌱⚛️ Learning **React**
 
-<hr>
-
-_"Coding since i was 11, i wanna put my creativity into coding N' be successful in my life..."_
 <hr>
 
 <div style="display: flex">
@@ -26,3 +23,5 @@ _"Coding since i was 11, i wanna put my creativity into coding N' be successful 
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
   <hr>
 </div>
+
+-✨𝓘𝓼𝓵𝓪𝓱 🌙
