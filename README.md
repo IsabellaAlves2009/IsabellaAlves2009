@@ -1,10 +1,10 @@
-<h1>Hi! I'm Isabella ;D</h1>
+<h1>Hi! I'm Isabella 💜</h1>
 <hr>
 
 * ✨ **14**y
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 RocketSeat **student**
-* 🌱⚛️ Learning **React**
+* 🌱⚛️ Learning...
 
 <hr>
 
@@ -18,7 +18,7 @@
 </div>
 <hr>
 <div>
-    <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-7.gif" width= "100%">
+    <img src="https://www.icegif.com/wp-content/uploads/icegif-4881.gif" width= "100%">
   <hr>
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
   <hr>
