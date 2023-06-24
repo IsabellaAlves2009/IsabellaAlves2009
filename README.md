@@ -3,7 +3,7 @@
 
 * ✨ **14**y
 * 👩🏻‍💻 Dev **front-end**
-* 💜🚀 RocketSeat **student**
+* 💜🚀 Rocketseat **student**
 * 🌱 Learning...
 
 <hr>
@@ -17,7 +17,7 @@
 </div>
 <hr>
 <div>
-    <img src="https://www.icegif.com/wp-content/uploads/icegif-4881.gif" width= "100%">
+    <img src="https://media.tenor.com/pJXxeEZlNFUAAAAd/shinobu.gif" width= "100%">
   <hr>
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
   <hr>
