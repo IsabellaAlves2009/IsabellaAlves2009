@@ -4,7 +4,7 @@
 * ✨ **14**y
 * 👩🏻‍💻 Dev **front-end**
 * 💜🚀 Rocketseat **student**
-* 🌱 Learning...
+* 🌱 Learning node.js
 
 <hr>
 
