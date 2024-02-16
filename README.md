@@ -15,7 +15,7 @@
 </div>
 <hr>
 <div>
-    <img src="https://media.tenor.com/CYeqvwO7y5kAAAAC/tanjiro-demon-slayer.gif" width= "100%">
+    <img src="https://i.pinimg.com/originals/5a/42/0b/5a420bc36febb6d807aa08a02e9632a9.gif" width= "100%">
   <hr>
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
   <hr>
