@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 👋! I'm Isabella, welcome to my profile </h2>
+<h2 align="left">Hey there 👋! I'm Isabella, welcome to my profile 💗</h2>
 
 ###
 
@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdpZzV0MHJjeXI5dGduMnJmdzd6NTF4ZDBvN2xndXp1YzMwdjF1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxZ3h6ZzQ1MnM0eWl2M3BqdG5pc2Z3ZDlheGFmZWpzZ3h0MnQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tR1ZZeJXR9RUDvaFVP/giphy.gif"  />
 
 ###
 
