@@ -1,28 +1,41 @@
-<h1>Hi! :D </h1>
-<hr>
+<h2 align="left">Hey there 👋! I'm Isabella, welcome to my profile </h2>
 
-* ✨ **16**y
-* RN 📍
-  
-<hr>
+###
 
-<div style="display: flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= "30px" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30px" width="40px"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" width="40px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabellaAlves2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsabellaAlves2009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div>   
-  <hr>
-  <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" style="max-width: 100%;">
-  <hr>
-</div>
-<a href="" target="_blank">
-<!--    <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
-  </a> -->
- <a href = "mailto:bella.s.alves2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href = "https://www.instagram.com/itzisahalves/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a>
+###
 
--𝑰𝒔𝒂𝒃𝒆𝒍𝒍𝒂 🎀✨
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdpZzV0MHJjeXI5dGduMnJmdzd6NTF4ZDBvN2xndXp1YzMwdjF1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+<br>
+<br>
+<br clear="both">
+
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="" />
+
+###
