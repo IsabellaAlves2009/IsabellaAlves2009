@@ -1,47 +1,52 @@
-<h2 align="left">Hey there 👋! I'm Isabella, welcome to my profile 💗</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabellaAlves2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsabellaAlves2009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Isabella+;Isabella+;Isabella+" alt="Isabella" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=+++++++++Alves;+++++++++Alves;+++++++++Alves" alt="Alves" style="margin-top: -70px;" />
+
+  <h2 align="center">🚀 <strong>Front-end Developer | 4 Years of Experience</strong> 🚀</h2>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdpZzV0MHJjeXI5dGduMnJmdzd6NTF4ZDBvN2xndXp1YzMwdjF1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif"  />
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxZ3h6ZzQ1MnM0eWl2M3BqdG5pc2Z3ZDlheGFmZWpzZ3h0MnQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tR1ZZeJXR9RUDvaFVP/giphy.gif"  />
+### 🔴 Sobre Mim
+Desenvolvedora Front-end apaixonada por transformar ideias complexas em interfaces digitais elegantes e intuitivas. Com **4 anos de trajetória**, foco em criar experiências que não apenas funcionem bem, mas que também contem uma história através do design. 🚀🚀
 
-###
+Atualmente, foco meu domínio em **React, TypeScript e Ecossistema Motion** para elevar o nível da web moderna, entregando Landing Pages e sistemas com performance e fluidez. 🚀
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 🚀 Expertise | Minha Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000" />
+</p>
 
-<div align="left">
-  <div>
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"     alt="instagram logo"  />
-    <a href="https://www.instagram.com/itzisahalves/"></a>
-  </div>
-  <div></div>
+---
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+### 📊 Estatísticas de Desenvolvimento 🚀
 
-###
-<br>
-<br>
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellaAlves2009&theme=dark&fire=FF0000&ring=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&hide_border=true" width="100%" />
+</p>
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="" />
+---
 
-###
+### ✉️ Contato 🚀
+<p align="left">
+  <a href="https://isabellaalves.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/itzisahalves" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" />
+  </a>
+  <a href="https://www.instagram.com/itzisahalves" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" />
+  </a>
+  <a href="mailto:bella.s.alves2005@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" />
+  </a>
+</p>
