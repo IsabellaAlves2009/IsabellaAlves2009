@@ -11,9 +11,11 @@
 Desenvolvedora Front-end apaixonada por transformar ideias complexas em interfaces digitais elegantes e intuitivas. Com **4 anos de trajetória**, foco em criar experiências que não apenas funcionem bem, mas que também contem uma história através do design. 🚀🚀
 
 Atualmente, foco meu domínio em **React, TypeScript e Ecossistema Motion** para elevar o nível da web moderna, entregando Landing Pages e sistemas com performance e fluidez. 🚀
+
 ---
 
 ### 🚀 Expertise | Minha Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000" />
