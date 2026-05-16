@@ -8,7 +8,7 @@
 ---
 
 ### 🔴 Sobre Mim
-Desenvolvedora Front-end apaixonada por transformar ideias complexas em interfaces digitais elegantes e intuitivas. Com **4 anos de trajetória**, foco em criar experiências que não apenas funcionem bem, mas que também contem uma história através do design. 🚀🚀
+Desenvolvedora Front-end apaixonada por transformar ideias complexas em interfaces digitais elegantes e intuitivas. Com **4 anos de trajetória**, foco em criar experiências que não apenas funcionem bem, mas que também contem uma história através do design. 🚀🚀🚀
 
 Atualmente, foco meu domínio em **React, TypeScript e Ecossistema Motion** para elevar o nível da web moderna, entregando Landing Pages e sistemas com performance e fluidez. 🚀
 
